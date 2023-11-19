@@ -10,11 +10,7 @@
       "type": "Feature",
       "id": "05",
       "properties": {
-        "DPTO": "05",
-        "NOMBRE_DPT": "ANTIOQUIA",
-        "AREA": 63351855546.894997,
-        "PERIMETER": 1963728.8430000001,
-        "HECTARES": 6335185.5549999997
+        "NOMBRE_DPT": "ANTIOQUIA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1199,12 +1195,9 @@
     },
     {
       "type": "Feature",
+      "id": "08",
       "properties": {
-        "DPTO": "08",
-        "NOMBRE_DPT": "ATLANTICO",
-        "AREA": 3360765349.961,
-        "PERIMETER": 240936.17199999999,
-        "HECTARES": 336076.53499999997
+        "NOMBRE_DPT": "ATLANTICO"
       },
       "geometry": {
         "type": "Polygon",
@@ -1394,12 +1387,9 @@
     },
     {
       "type": "Feature",
+      "id": "11",
       "properties": {
-        "DPTO": "11",
-        "NOMBRE_DPT": "SANTAFE DE BOGOTA D.C",
-        "AREA": 1650947779.1340001,
-        "PERIMETER": 323322.53999999998,
-        "HECTARES": 165094.77799999999
+        "NOMBRE_DPT": "SANTAFE DE BOGOTA D.C"
       },
       "geometry": {
         "type": "Polygon",
@@ -1663,12 +1653,9 @@
     },
     {
       "type": "Feature",
+      "id": "13",
       "properties": {
-        "DPTO": "13",
-        "NOMBRE_DPT": "BOLIVAR",
-        "AREA": 26141894527.75,
-        "PERIMETER": 1309427.9680000001,
-        "HECTARES": 2614189.4530000002
+        "NOMBRE_DPT": "BOLIVAR"
       },
       "geometry": {
         "type": "Polygon",
@@ -2458,12 +2445,9 @@
     },
     {
       "type": "Feature",
+      "id": "15",
       "properties": {
-        "DPTO": "15",
-        "NOMBRE_DPT": "BOYACA",
-        "AREA": 23352582463.938999,
-        "PERIMETER": 1364539.9110000001,
-        "HECTARES": 2335258.2459999998
+        "NOMBRE_DPT": "BOYACA"
       },
       "geometry": {
         "type": "Polygon",
@@ -3621,12 +3605,9 @@
     },
     {
       "type": "Feature",
+      "id": "17",
       "properties": {
-        "DPTO": "17",
-        "NOMBRE_DPT": "CALDAS",
-        "AREA": 7558199875.5559998,
-        "PERIMETER": 603282.45700000005,
-        "HECTARES": 755819.98800000001
+        "NOMBRE_DPT": "CALDAS"
       },
       "geometry": {
         "type": "Polygon",
@@ -4143,12 +4124,9 @@
     },
     {
       "type": "Feature",
+      "id": "18",
       "properties": {
-        "DPTO": "18",
-        "NOMBRE_DPT": "CAQUETA",
-        "AREA": 90180868828.820999,
-        "PERIMETER": 1888506.9010000001,
-        "HECTARES": 9018086.8829999994
+        "NOMBRE_DPT": "CAQUETA"
       },
       "geometry": {
         "type": "Polygon",
@@ -5386,12 +5364,9 @@
     },
     {
       "type": "Feature",
+      "id": "19",
       "properties": {
-        "DPTO": "19",
-        "NOMBRE_DPT": "CAUCA",
-        "AREA": 29742787301.199001,
-        "PERIMETER": 1243388.952,
-        "HECTARES": 2974278.73
+        "NOMBRE_DPT": "CAUCA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6235,12 +6210,9 @@
     },
     {
       "type": "Feature",
+      "id": "20",
       "properties": {
-        "DPTO": "20",
-        "NOMBRE_DPT": "CESAR",
-        "AREA": 22973095679.787998,
-        "PERIMETER": 1080343.6780000001,
-        "HECTARES": 2297309.568
+        "NOMBRE_DPT": "CESAR"
       },
       "geometry": {
         "type": "Polygon",
@@ -6914,12 +6886,9 @@
     },
     {
       "type": "Feature",
+      "id": "23",
       "properties": {
-        "DPTO": "23",
-        "NOMBRE_DPT": "CORDOBA",
-        "AREA": 25059485605.512001,
-        "PERIMETER": 814093.37199999997,
-        "HECTARES": 2505948.5610000002
+        "NOMBRE_DPT": "CORDOBA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7437,12 +7406,9 @@
     },
     {
       "type": "Feature",
+      "id": "25",
       "properties": {
-        "DPTO": "25",
-        "NOMBRE_DPT": "CUNDINAMARCA",
-        "AREA": 22800258637.522999,
-        "PERIMETER": 1164175.024,
-        "HECTARES": 2280025.8640000001
+        "NOMBRE_DPT": "CUNDINAMARCA"
       },
       "geometry": {
         "type": "Polygon",
@@ -8350,12 +8316,9 @@
     },
     {
       "type": "Feature",
+      "id": "27",
       "properties": {
-        "DPTO": "27",
-        "NOMBRE_DPT": "CHOCO",
-        "AREA": 46838522629.870003,
-        "PERIMETER": 1797897.8729999999,
-        "HECTARES": 4683852.2630000003
+        "NOMBRE_DPT": "CHOCO"
       },
       "geometry": {
         "type": "Polygon",
@@ -9465,12 +9428,9 @@
     },
     {
       "type": "Feature",
+      "id": "41",
       "properties": {
-        "DPTO": "41",
-        "NOMBRE_DPT": "HUILA",
-        "AREA": 20318702519.012001,
-        "PERIMETER": 929144.16599999997,
-        "HECTARES": 2031870.2520000001
+        "NOMBRE_DPT": "HUILA"
       },
       "geometry": {
         "type": "Polygon",
@@ -10113,12 +10073,9 @@
     },
     {
       "type": "Feature",
+      "id": "44",
       "properties": {
-        "DPTO": "44",
-        "NOMBRE_DPT": "LA GUAJIRA",
-        "AREA": 21012349660.450001,
-        "PERIMETER": 936598.02000000002,
-        "HECTARES": 2101234.966
+        "NOMBRE_DPT": "LA GUAJIRA"
       },
       "geometry": {
         "type": "Polygon",
@@ -10586,12 +10543,9 @@
     },
     {
       "type": "Feature",
+      "id": "47",
       "properties": {
-        "DPTO": "47",
-        "NOMBRE_DPT": "MAGDALENA",
-        "AREA": 22846394629.859001,
-        "PERIMETER": 916642.46999999997,
-        "HECTARES": 2284639.463
+        "NOMBRE_DPT": "MAGDALENA"
       },
       "geometry": {
         "type": "Polygon",
@@ -11154,12 +11108,9 @@
     },
     {
       "type": "Feature",
+      "id": "50",
       "properties": {
-        "DPTO": "50",
-        "NOMBRE_DPT": "META",
-        "AREA": 85389685783.837997,
-        "PERIMETER": 1680541.8119999999,
-        "HECTARES": 8538968.5779999997
+        "NOMBRE_DPT": "META"
       },
       "geometry": {
         "type": "Polygon",
@@ -11924,12 +11875,9 @@
     },
     {
       "type": "Feature",
+      "id": "52",
       "properties": {
-        "DPTO": "52",
-        "NOMBRE_DPT": "NARIÑO",
-        "AREA": 33283045970.747002,
-        "PERIMETER": 1015680.966,
-        "HECTARES": 3328304.5970000001
+        "NOMBRE_DPT": "NARIÑO"
       },
       "geometry": {
         "type": "Polygon",
@@ -12506,12 +12454,9 @@
     },
     {
       "type": "Feature",
+      "id": "54",
       "properties": {
-        "DPTO": "54",
-        "NOMBRE_DPT": "NORTE DE SANTANDER",
-        "AREA": 21443330911.238998,
-        "PERIMETER": 914288.24399999995,
-        "HECTARES": 2144333.091
+        "NOMBRE_DPT": "NORTE DE SANTANDER"
       },
       "geometry": {
         "type": "Polygon",
@@ -13151,12 +13096,9 @@
     },
     {
       "type": "Feature",
+      "id": "63",
       "properties": {
-        "DPTO": "63",
-        "NOMBRE_DPT": "QUINDIO",
-        "AREA": 1732025801.293,
-        "PERIMETER": 207948.85699999999,
-        "HECTARES": 173202.57999999999
+        "NOMBRE_DPT": "QUINDIO"
       },
       "geometry": {
         "type": "Polygon",
@@ -13355,12 +13297,9 @@
     },
     {
       "type": "Feature",
+      "id": "66",
       "properties": {
-        "DPTO": "66",
-        "NOMBRE_DPT": "RISARALDA",
-        "AREA": 4042733125.7610002,
-        "PERIMETER": 436988.67700000003,
-        "HECTARES": 404273.31300000002
+        "NOMBRE_DPT": "RISARALDA"
       },
       "geometry": {
         "type": "Polygon",
@@ -13728,12 +13667,9 @@
     },
     {
       "type": "Feature",
+      "id": "68",
       "properties": {
-        "DPTO": "68",
-        "NOMBRE_DPT": "SANTANDER",
-        "AREA": 30290221671.890999,
-        "PERIMETER": 1036566.662,
-        "HECTARES": 3029022.1669999999
+        "NOMBRE_DPT": "SANTANDER"
       },
       "geometry": {
         "type": "Polygon",
@@ -14530,12 +14466,9 @@
     },
     {
       "type": "Feature",
+      "id": "70",
       "properties": {
-        "DPTO": "70",
-        "NOMBRE_DPT": "SUCRE",
-        "AREA": 10823789104.326,
-        "PERIMETER": 688869.68099999998,
-        "HECTARES": 1082378.9099999999
+        "NOMBRE_DPT": "SUCRE"
       },
       "geometry": {
         "type": "Polygon",
@@ -14998,12 +14931,9 @@
     },
     {
       "type": "Feature",
+      "id": "73",
       "properties": {
-        "DPTO": "73",
-        "NOMBRE_DPT": "TOLIMA",
-        "AREA": 23421273474.061001,
-        "PERIMETER": 853045.77899999998,
-        "HECTARES": 2342127.3470000001
+        "NOMBRE_DPT": "TOLIMA"
       },
       "geometry": {
         "type": "Polygon",
@@ -15670,12 +15600,9 @@
     },
     {
       "type": "Feature",
+      "id": "76",
       "properties": {
-        "DPTO": "76",
-        "NOMBRE_DPT": "VALLE DEL CAUCA",
-        "AREA": 22146825343.909,
-        "PERIMETER": 995449.43400000001,
-        "HECTARES": 2214682.534
+        "NOMBRE_DPT": "VALLE DEL CAUCA"
       },
       "geometry": {
         "type": "Polygon",
@@ -16413,12 +16340,9 @@
     },
     {
       "type": "Feature",
+      "id": "81",
       "properties": {
-        "DPTO": "81",
-        "NOMBRE_DPT": "ARAUCA",
-        "AREA": 24196379863.349998,
-        "PERIMETER": 843446.02599999995,
-        "HECTARES": 2419637.986
+        "NOMBRE_DPT": "ARAUCA"
       },
       "geometry": {
         "type": "Polygon",
@@ -16873,12 +16797,9 @@
     },
     {
       "type": "Feature",
+      "id": "85",
       "properties": {
-        "DPTO": "85",
-        "NOMBRE_DPT": "CASANARE",
-        "AREA": 44714094970.349998,
-        "PERIMETER": 1101844.9099999999,
-        "HECTARES": 4471409.4970000004
+        "NOMBRE_DPT": "CASANARE"
       },
       "geometry": {
         "type": "Polygon",
@@ -17554,12 +17475,9 @@
     },
     {
       "type": "Feature",
+      "id": "86",
       "properties": {
-        "DPTO": "86",
-        "NOMBRE_DPT": "PUTUMAYO",
-        "AREA": 24707681631.591,
-        "PERIMETER": 1194372.666,
-        "HECTARES": 2470768.1630000002
+        "NOMBRE_DPT": "PUTUMAYO"
       },
       "geometry": {
         "type": "Polygon",
@@ -18256,12 +18174,9 @@
     },
     {
       "type": "Feature",
+      "id": "91",
       "properties": {
-        "DPTO": "91",
-        "NOMBRE_DPT": "AMAZONAS",
-        "AREA": 110029418235.446,
-        "PERIMETER": 2562641.642,
-        "HECTARES": 11002941.823999999
+        "NOMBRE_DPT": "AMAZONAS"
       },
       "geometry": {
         "type": "Polygon",
@@ -19701,12 +19616,9 @@
     },
     {
       "type": "Feature",
+      "id": "94",
       "properties": {
-        "DPTO": "94",
-        "NOMBRE_DPT": "GUAINIA",
-        "AREA": 72111494561.285995,
-        "PERIMETER": 1882807.1899999999,
-        "HECTARES": 7211149.4560000002
+        "NOMBRE_DPT": "GUAINIA"
       },
       "geometry": {
         "type": "Polygon",
@@ -20629,12 +20541,9 @@
     },
     {
       "type": "Feature",
+      "id": "95",
       "properties": {
-        "DPTO": "95",
-        "NOMBRE_DPT": "GUAVIARE",
-        "AREA": 55671476686.650002,
-        "PERIMETER": 1555059.3489999999,
-        "HECTARES": 5567147.6689999998
+        "NOMBRE_DPT": "GUAVIARE"
       },
       "geometry": {
         "type": "Polygon",
@@ -21639,12 +21548,9 @@
     },
     {
       "type": "Feature",
+      "id": "97",
       "properties": {
-        "DPTO": "97",
-        "NOMBRE_DPT": "VAUPES",
-        "AREA": 53087838626.980003,
-        "PERIMETER": 1666564.449,
-        "HECTARES": 5308783.8629999999
+        "NOMBRE_DPT": "VAUPES"
       },
       "geometry": {
         "type": "Polygon",
@@ -22710,12 +22616,9 @@
     },
     {
       "type": "Feature",
+      "id": "99",
       "properties": {
-        "DPTO": "99",
-        "NOMBRE_DPT": "VICHADA",
-        "AREA": 100055282904.151,
-        "PERIMETER": 1781121.9569999999,
-        "HECTARES": 10005528.289999999
+        "NOMBRE_DPT": "VICHADA"
       },
       "geometry": {
         "type": "Polygon",
@@ -23546,12 +23449,9 @@
     },
     {
       "type": "Feature",
+      "id": "88",
       "properties": {
-        "DPTO": "88",
-        "NOMBRE_DPT": "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA",
-        "AREA": 49602521.129000001,
-        "PERIMETER": 71946.251000000004,
-        "HECTARES": 4960.2520000000004
+        "NOMBRE_DPT": "ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA"
       },
       "geometry": {
         "type": "MultiPolygon",
